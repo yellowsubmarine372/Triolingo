@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.png" width="200"/>
+</p>
+
 # GoGo Golem! 🧌
 
 NPC와 다양한 방식으로 상호작용하여 함께 성장하며 스토리를 이어가는 어드벤처 게임
